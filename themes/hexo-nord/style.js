@@ -96,5 +96,4 @@ export const Style = () => (
   `}</style>
 )
 
-export { Style }
 
